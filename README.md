@@ -9,6 +9,6 @@ Users can upload an image, detect objects, and download the annotated output ima
     - View detected objects and their bounding boxes in real-time.
     - Download the annotated output image with detected objects.
 
-![image](https://github.com/user-attachments/assets/68ae19bb-1510-4647-bd12-f91bf6b1b8d4)
+![image](https://github.com/user-attachments/assets/1ff4bf85-4231-47fa-b93c-1cf5857bf98c)
 
-![image](https://github.com/user-attachments/assets/9f47dfdc-3322-4e06-bbbc-1b3c4a73d398)
+![image](https://github.com/user-attachments/assets/27470ffd-6b50-41b7-b682-ba9a7cd36692)
