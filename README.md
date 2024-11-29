@@ -11,4 +11,4 @@ Users can upload an image, detect objects, and download the annotated output ima
 
 ![image](https://github.com/user-attachments/assets/68ae19bb-1510-4647-bd12-f91bf6b1b8d4)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9f47dfdc-3322-4e06-bbbc-1b3c4a73d398)
