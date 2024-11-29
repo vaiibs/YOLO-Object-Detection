@@ -2,6 +2,8 @@
 
 This is a Streamlit-based application for performing object detection using the YOLOv5 model. 
 
+The model performs object detection and returns results, including bounding boxes, labels, and confidence scores for the detected objects.
+
 Users can upload an image, detect objects, and download the annotated output image.
 
 ## Features
