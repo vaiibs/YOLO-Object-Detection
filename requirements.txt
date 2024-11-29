@@ -4,4 +4,3 @@ numpy
 Pillow
 ultralytics
 opencv-python-headless==4.8.0.74
-libgl1-mesa-glx
